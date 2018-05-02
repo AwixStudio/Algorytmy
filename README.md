@@ -9,6 +9,7 @@ Gotowe algorytmy do programowania w C# oraz gotowe rozwiązania dla Unity3d
 **String - wszelkie algorytmy związane z pracami na stringach.**
 <ul>
 <li> Anagram - sprawdza czy dane dwa wyrazy sa swoimi anagramami. </li>
+<li> Palindrome - sprawdza czy dany tekst jest palindromem, metoda usuwająca podane znaki z tekstu. </li>
 </ul>
 
 **Matematyka - wszelkie algorytmy związane z matematyką.**
