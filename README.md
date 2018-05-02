@@ -10,3 +10,8 @@ Gotowe algorytmy do programowania w C# oraz gotowe rozwiązania dla Unity3d
 <ul>
 <li> Anagram - sprawdza czy dane dwa wyrazy sa swoimi anagramami. </li>
 </ul>
+
+**Matematyka - wszelkie algorytmy związane z matematyką.**
+<ul>
+<li> Trangle - zawiera metody sprawdzające czy z podanych odcników/punktów można zbudować trójkąt oraz określające typ trójkąta ze względu na boki. </li>
+</ul>
