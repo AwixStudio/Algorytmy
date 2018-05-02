@@ -2,6 +2,8 @@
 
 public static class MixListElements {
 
+	// Wykorzystanie:
+	// mojaLista.MixElements();
 	public static void MixElements<T>(this List<T> list)  
 	{  
 		System.Random rnd = new System.Random();  
