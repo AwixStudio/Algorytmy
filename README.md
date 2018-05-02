@@ -15,4 +15,5 @@ Gotowe algorytmy do programowania w C# oraz gotowe rozwiązania dla Unity3d
 **Matematyka - wszelkie algorytmy związane z matematyką.**
 <ul>
 <li> Trangle - zawiera metody sprawdzające czy z podanych odcników/punktów można zbudować trójkąt oraz określające typ trójkąta ze względu na boki. </li>
+<li> Prime - sprawdza czy dana liczba jest liczbą pierwszą. </li>
 </ul>
