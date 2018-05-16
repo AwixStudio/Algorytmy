@@ -2,6 +2,7 @@
 
 public static class MixListElements {
 
+	// Miesza kolejnośc elementów listy w losowy sposób.
 	// Wykorzystanie:
 	// mojaLista.MixElements();
 	public static void MixElements<T>(this List<T> list)  
