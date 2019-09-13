@@ -28,8 +28,6 @@ public static class Trangle {
 	// 1 - równoboczny
 	// 2 - równoramienny
 	// 3 - różnoboczny
-	// Wykorzystanie:
-	// bool wynik = CanBeTrangle(dOdcinka1, dOdcinka2, dOdcink3);
 	public static int TrangleType(double a, double b, double c)
 	{
 		if(CanBeTrangle(a,b,c))
